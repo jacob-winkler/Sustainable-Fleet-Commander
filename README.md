@@ -10,9 +10,9 @@ Use the default settings for best experience
 
 GAME DESCRIPTION (Not fully implemented)
 ================
- ~~~~~~~~~~~~~~~
- The first stage
- ~~~~~~~~~~~~~~~
+
+ STAGE 1
+ =======
   This is the basic combat stage. Unfortunately there's no real combat. Just a proof of concept.
 
     You move using WASD or the arrow keys.
@@ -21,9 +21,10 @@ GAME DESCRIPTION (Not fully implemented)
 
     Follow the on screen instructions to advance to the next stage.
 
- ~~~~~~~~~~~~~~~~
- The second level
- ~~~~~~~~~~~~~~~~
+
+
+ STAGE 2
+ =======
   This is the resource management stage. The overview of your star system which is revisited after each combat stage.
 
     *In this stage you have planets (only a single one for now) that each have their own unique resources.
