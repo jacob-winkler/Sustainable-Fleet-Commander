@@ -7,7 +7,7 @@ To see my code, go to branch Prototype1 then navigate to the following directory
 You can run the current prototype by running the executable file available within the "Sustainable Fleet Commander" folder.
 Use the default settings for best experience
 
-================
+
 GAME DESCRIPTION (Not fully implemented)
 ================
  ~~~~~~~~~~~~~~~
