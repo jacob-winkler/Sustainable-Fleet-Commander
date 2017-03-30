@@ -1,4 +1,8 @@
-﻿using UnityEngine;
+﻿/* Placeholder class for production actions
+ * Nothing is here yet
+ */
+
+using UnityEngine;
 using System.Collections;
 
 public class Production : MonoBehaviour {

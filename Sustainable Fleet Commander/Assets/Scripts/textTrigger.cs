@@ -1,4 +1,7 @@
-﻿using UnityEngine;
+﻿/* Simple script to trigger the next turn for testing purposes
+ */ 
+
+using UnityEngine;
 using System.Collections;
 
 public class textTrigger : MonoBehaviour {
